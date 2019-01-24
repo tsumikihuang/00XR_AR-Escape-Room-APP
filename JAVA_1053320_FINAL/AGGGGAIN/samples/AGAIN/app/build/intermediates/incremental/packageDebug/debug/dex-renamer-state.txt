@@ -1,0 +1,4 @@
+#Tue Jan 09 17:09:22 CST 2018
+base.0=C\:\\Users\\asus\\Desktop\\AGGGGAIN\\samples\\AGAIN\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

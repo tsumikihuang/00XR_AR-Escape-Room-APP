@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\asus\\Desktop\\AGGGGAIN\\samples\\AGAIN\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\654656b1b645cc7810fc30e3838e8d6a\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\asus\\Desktop\\AGGGGAIN\\samples\\AGAIN\\app\\src\\main\\res\\values-v13\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "115",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "114",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "342"
+                    }
+                }
+            ]
+        }
+    ]
+}
